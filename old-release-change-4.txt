@@ -1,0 +1,2 @@
+Synthetic change 4 for the old 6.1.1.7 release baseline.
+The associated dummy CDET is recorded only in the commit description.
