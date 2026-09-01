@@ -1,0 +1,2 @@
+Synthetic change 2 for the old 6.1.1.7 release baseline.
+This file represents a normal change merged into master before backporting.
