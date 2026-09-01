@@ -1,0 +1,2 @@
+Synthetic behavior for the third 6.1.1.8 release build.
+The associated dummy CDET is recorded only in the commit description.
